@@ -1,5 +1,3 @@
-https://tapi.bale.ai/bot1184284872:l2ZHXPr59AQV4xY-mDxFBgb6qg7kfjexlTA/setWebhook?url=https://bale.livemusic4x.workers.dev/
-..........................................................................................
 
 export default {
   async fetch(request) {
